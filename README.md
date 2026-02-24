@@ -13,11 +13,11 @@ https://github.com/anmolsodhi848-wq/Pizza-Sales-Analysis/blob/main/Pizza%20Order
 
 ## Key Performance Indicators (KPIs)
 
-1. Total Revenue: 2,236,929
-2. Total Orders: 13,402
-3. Total Quantity Sold: 129,194 pizzas
-4. Average Order Value (AOV): 166.9
-5. Average Pizzas per Order: 9.64
+1. ## Total Revenue: 2,236,929
+2. ## Total Orders: 13,402
+3. ## Total Quantity Sold: 129,194 pizzas
+4. ## Average Order Value (AOV): 166.9
+5. ## Average Pizzas per Order: 9.64
 
 
 ## Process
